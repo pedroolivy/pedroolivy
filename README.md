@@ -1,77 +1,47 @@
-<h3 align="center">
-        <samp>&gt; Hey There! 👋 , I'm Pedro </samp>
-</h3>
-
-<p align="center"> 
-  <samp>
-    <br>
-    「 I'm a Software Developer | Fullstack | .NET Developer from <b>Brazil</b> 」
-    <br>
-    <br>
-  </samp>
-</p>
-
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
-</div>
+<h3 align="center"> Hi👋, I'm Pedro </h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- :computer: *I am a Dynamic Software Engineer and Backend Developer with a robust computer science foundation, excelling in Web and API Development.*
+- 🔭  Software Developer | JavaScript | Angular | .Net | C#
 
-- :student: *Experienced .NET Developer is proficient in C# and ASP.NET Core with a strong foundation in software development principles.*
+- :computer: I am a Dynamic Software Engineer and FullStack Developer with a robust computer science foundation
 
-- 🅰️ *Proficient in Angular for creating dynamic and responsive frontend interfaces.*
+- 🌱 I’m currently learning **Angular** & **NodeJs**
+  
+- 👨‍💻 All of my projects are available at [[https://github.com/pedroolivy-f?tab=repositories](https://github.com/pedroolivy?tab=repositories)]
 
-- :blue_book: *Skilled in building web applications, RESTful APIs, and database integration.*
+- <p>More About me! <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
 
-- :fire: *Committed to delivering impactful solutions at the intersection of innovation and efficiency.*
 
-- :technologist: *Dedicated to continuous learning and contributing to collaborative team environments.*
+```JavaScript
+const pedro = {
+	code: [C#, Javascript, Typescript, HTML, CSS, XML],
+	tools: [SapUi5, Angular, Api Rest || RestFull, LinqToDb, Entity Framework, Git || Github || GitLab],
+	techCommunities: {
+		speaker: "Portuguese, English",
+		mentor: "Instituto Federal de Goiás, Cubos Academy, Rocketseat, Origamid"
+	},
+```
 
-- :thinking: *Committed to delivering high-quality, scalable solutions that meet client needs and exceed expectations..*
+<br>
 
-- :school: *Work with database management (SQL, HANA, PostgreSQL) with ORM for efficient data manipulation.*
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
 <h3 align="left">Languages and Tools:</h3>
 
-- Programming Language
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,js,ts" />
-  </a>
-</p>
+<p align="left"> 
+	
+</a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+<a> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" /></a>
 
-- Backend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs" />
-  </a>
-</p>
+</a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+</a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,angular" />
-  </a>
-</p>
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,bash,dotnet,gitlab" />
-  </a>
 </p>
