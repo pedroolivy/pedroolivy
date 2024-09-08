@@ -2,11 +2,9 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭  Software Developer | JavaScript | Angular | .Net | C#
+- 🔭  Software Developer | JavaScript | Angular | .Net | C# | SQL | Sapui5
 
 - :computer: I am a Dynamic Software Engineer and FullStack Developer with a robust computer science foundation
-
-- 🌱 I’m currently learning **Angular** & **NodeJs**
   
 - 👨‍💻 All of my projects are available at [[https://github.com/pedroolivy-f?tab=repositories](https://github.com/pedroolivy?tab=repositories)]
 
