@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭  Software Developer | JavaScript | Angular | .Net | C# | SQL | Sapui5
+- 🔭  Software Developer | .Net | C# | SQL| PostgreSQL | JavaScript | Angular
 
 - :computer: I am a Dynamic Software Engineer and FullStack Developer with a robust computer science foundation
   
@@ -13,11 +13,11 @@
 
 ```JavaScript
 const pedro = {
-	code: [C#, Javascript, Typescript, HTML, CSS, XML],
-	tools: [SapUi5, Angular, Api Rest || RestFull, LinqToDb, Entity Framework, Git || Github || GitLab],
+	code: [C#, Javascript, HTML, CSS, XML],
+	tools: [SapUi5, Angular, LinqToDb, EntityFramework, Git,  Github, GitLab, Railway],
 	techCommunities: {
 		speaker: "Portuguese, English",
-		mentor: "Instituto Federal de Goiás, Cubos Academy, Rocketseat, Origamid"
+		mentor: "Instituto Federal de Goiás, desenvolvedor.io, Balta.io"
 	},
 ```
 
