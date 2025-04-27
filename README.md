@@ -15,7 +15,17 @@
 const pedro = {
   code: [ "C#", "SQL", "JavaScript", "HTML", "CSS", "XML" ],
   tools: [ "LinqToDb", "Entity Framework", "Git", "GitHub", "GitLab", "Railway", "SQL Server", "PostgreSQL" ],
-  knowledge: [ "DDD", "Rich Domain Model", "Clean Architecture", "CQRS", "Repository Pattern", "SOLID Principles", "TDD", "API RESTful", "Authentication and Authorization" ],
+  knowledge: [
+              "DDD",
+              "Rich Domain Model",
+              "Clean Architecture",
+              "CQRS",
+              "Repository Pattern",
+              "SOLID Principles",
+              "TDD",
+              "API RESTful",
+              "Authentication and Authorization"
+            ],
   techCommunities: {
     speaker: [ "Portuguese", "English", "Espanhol" ],
     mentor: [ "Instituto Federal de Goiás", "desenvolvedor.io", "Balta.io" ]
