@@ -24,7 +24,7 @@ const pedro = {
               "SOLID Principles",
               "TDD",
               "API RESTful",
-              "Authentication and Authorization"
+              "Authentication"
             ],
   techCommunities: {
     speaker: [ "Portuguese", "English", "Espanhol" ],
