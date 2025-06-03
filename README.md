@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-- 🔭  Software Developer | .Net | C# | SQL| PostgreSQL | JavaScript 
+- 🔭  Software Developer | .Net | C# | SQL | PostgreSQL | JavaScript 
 
 - :computer: I am a Dynamic Software Engineer and FullStack Developer with a robust computer science foundation
   
