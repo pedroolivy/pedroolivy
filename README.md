@@ -15,6 +15,7 @@
 const pedro = {
   code: [ "C#", "SQL", "JavaScript", "HTML", "CSS", "XML" ],
   tools: [ "LinqToDb", "Entity Framework", "Git", "GitHub", "GitLab", "Railway", "SQL Server", "PostgreSQL" ],
+  speaker: [ "Portuguese", "English", "Espanhol" ],
   knowledge: [
               "DDD",
               "Rich Domain Model",
@@ -22,12 +23,12 @@ const pedro = {
               "CQRS",
               "Repository Pattern",
               "SOLID Principles",
+              "BackgroundServices",
               "TDD",
               "API RESTful",
               "Authentication"
             ],
   techCommunities: {
-    speaker: [ "Portuguese", "English", "Espanhol" ],
     mentor: [ "Instituto Federal de Goiás", "desenvolvedor.io", "Balta.io" ]
   }
 };
