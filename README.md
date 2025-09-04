@@ -10,30 +10,6 @@
 
 - <p>More About me! <small><img src="https://i.pinimg.com/originals/e5/93/ab/e593ab0589d5f1b389e4dfbcce2bce20.gif" width= "50" heigth= "60"></small</p>
 
-
-```JavaScript
-const pedro = {
-  code: [ "C#", "SQL", "JavaScript", "HTML", "CSS", "XML" ],
-  tools: [ "LinqToDb", "Entity Framework", "Git", "GitHub", "GitLab", "Railway", "SQL Server", "PostgreSQL" ],
-  speaker: [ "Portuguese", "English", "Espanhol" ],
-  knowledge: [
-              "DDD",
-              "Rich Domain Model",
-              "Clean Architecture",
-              "CQRS",
-              "Repository Pattern",
-              "SOLID Principles",
-              "BackgroundServices",
-              "TDD",
-              "API RESTful",
-              "Authentication"
-            ],
-  techCommunities: {
-    mentor: [ "Instituto Federal de Goiás", "desenvolvedor.io", "Balta.io" ]
-  }
-};
-```
-
 <br>
 
 <img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
