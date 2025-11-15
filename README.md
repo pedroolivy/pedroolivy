@@ -8,8 +8,6 @@
   
 - 👨‍💻 All of my projects are available at [[https://github.com/pedroolivy-f?tab=repositories](https://github.com/pedroolivy?tab=repositories)]
 
-<img align="right" alt="Cowboy"  height="160" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
-
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
