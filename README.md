@@ -55,5 +55,8 @@
   <a href="https://railway.app/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/78782317?s=200&v=4" alt="Railway" width="40" height="40"/>
   </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</a>
 
 </p>
