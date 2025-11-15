@@ -1,10 +1,3 @@
-<h3 align="center"> Hi👋, I'm Pedro </h3>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-- 🔭  Back-end Developer | .NET | C# | APIs REST | SQL | Docker
-
-- 👨‍💻 All of my projects are available at [[https://github.com/pedroolivy-f?tab=repositories](https://github.com/pedroolivy?tab=repositories)]
 
 <p align="left">
   
