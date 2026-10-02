@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 846 548" width="846" height="548" role="img">
+<title>{{text:hero.name}}, {{text:hero.role}}.</title>
+<style>
+.sheet{fill:{{color:bg}};stroke:{{color:line}};stroke-width:1}
+.tick{fill:none;stroke:{{color:line}};stroke-width:1}
+.micro{font-family:{{font:mono}};font-weight:400;fill:{{color:muted}};transform-box:fill-box;transform-origin:50% 50%}
+.lettering{fill:none;stroke:{{color:ink}};stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3}
+.hdr .micro,text.tag{font-size:13px;letter-spacing:1.8px}
+text.role{font-size:30px;letter-spacing:4.5px;fill:{{color:soft}}}
+.cam{transform-box:view-box;transform-origin:0 0}
+.floor{fill:none;stroke:url(#floorfade);stroke-width:.8}
+.row{fill:url(#fog);stroke:var(--c);stroke-linejoin:round;vector-effect:non-scaling-stroke;transform-box:view-box}
+.xl{fill:none;stroke-width:.7;vector-effect:non-scaling-stroke}
+.face{fill:url(#hatch);stroke:{{color:near}};stroke-width:1;stroke-linejoin:round}
+.mo text{font-family:{{font:mono}};font-size:12px;fill:{{color:muted}};text-anchor:middle;paint-order:stroke;stroke:{{color:bg}};stroke-width:4px;stroke-linejoin:round}
+.ruler{fill:none;stroke:{{color:muted}};stroke-width:1}
+.lit{fill:none;stroke:{{color:signal}};stroke-width:1.6;opacity:0}
+.route{fill:none;stroke:{{color:signal}};stroke-width:2.2;stroke-linejoin:round;stroke-linecap:round}
+.glow{fill:none;stroke:{{color:signal}};stroke-width:7;stroke-linejoin:round;stroke-linecap:round;opacity:.16}
+.flow{fill:none;stroke:{{color:spark}};stroke-width:2.4;stroke-linecap:round;opacity:0}
+.carrier{fill:{{color:ink}};stroke:{{color:bg}};stroke-width:1.5;opacity:0}
+.pole{fill:none;stroke:{{color:signal}};stroke-width:1.2}
+.flag{fill:{{color:signal}};transform-box:fill-box;transform-origin:0 50%}
+.now{fill:{{color:signal}};transform-box:fill-box;transform-origin:50% 50%}
+.ring,.beacon{fill:none;stroke:{{color:signal}};opacity:0;transform-box:fill-box;transform-origin:50% 50%}
+.ring{stroke-width:1.5}
+.beacon{stroke-width:1.2}
+text.tag{font-family:{{font:mono}};fill:{{color:signal}}}
+{{slot:terrain-css}}
+@keyframes fade{from{opacity:0}}
+@keyframes draw{from{stroke-dasharray:1;stroke-dashoffset:1}to{stroke-dasharray:1;stroke-dashoffset:0}}
+@keyframes rise{from{opacity:0;transform:translateY(6px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+@media (max-width:500px){.hdr .micro{font-size:22px;letter-spacing:2px}.hdr text[text-anchor="end"]{display:none}.row{stroke-width:.4}.row[stroke-width="1.2"]{stroke-width:.8}.xl{stroke-width:.3}.route{stroke-width:4.6}.glow{stroke-width:11}.flow{stroke-width:4.6}.mo text{font-size:24px;stroke-width:6px;transform:translateY(9px)}text.tag{font-size:26px;letter-spacing:2px}}
+</style>
+<defs>
+<clipPath id="table"><rect x="1" y="232" width="844" height="315"/></clipPath>
+<clipPath id="window"><rect x="1" y="226" width="844" height="321" rx="11"/></clipPath>
+<pattern id="hatch" width="4" height="4" patternUnits="userSpaceOnUse" patternTransform="rotate(45)"><path d="M.5 0V4" stroke="{{color:hatch}}" stroke-width="1"/></pattern>
+{{slot:terrain-defs}}
+</defs>
+<rect class="sheet" x="0.5" y="0.5" width="845" height="547" rx="12"/>
+<path class="tick" d="M34 22H22V34M812 22H824V34M34 526H22V514M812 526H824V514"/>
+<g class="hdr"><text class="micro" x="56" y="46">{{text:hero.sheet}}</text><text class="micro" x="790" y="46" text-anchor="end">{{text:hero.window}} → {{data:asOf}}</text></g>
+{{slot:name}}
+<text class="micro role" x="423" y="212" text-anchor="middle">{{text:hero.role}}</text>
+{{slot:terrain}}
+</svg>
