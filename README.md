@@ -9,5 +9,7 @@
 <br>
 <a href="https://www.linkedin.com/in/pedro-oliveira-286342184/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-linkedin-dark.svg"><img alt="LinkedIn" src="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-linkedin-light.svg" width="40"></picture></a>&nbsp;&nbsp;
 <a href="mailto:pedrooliveiradevs@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-email-dark.svg"><img alt="E-mail: pedrooliveiradevs@gmail.com" src="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-email-light.svg" width="40"></picture></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/pedr.ooliveira/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-instagram-dark.svg"><img alt="Instagram" src="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-instagram-light.svg" width="40"></picture></a><img src="https://komarev.com/ghpvc/?username=pedroolivy&style=pixel" alt="" width="1" height="1">
+<a href="https://www.instagram.com/pedr.ooliveira/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-instagram-dark.svg"><img alt="Instagram" src="https://raw.githubusercontent.com/pedroolivy/pedroolivy/main/assets/contact-instagram-light.svg" width="40"></picture></a>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=pedroolivy&style=flat-square&color=FF4F2E&label=PROFILE+VIEWS" alt="Profile views">
 </div>
